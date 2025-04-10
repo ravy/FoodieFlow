@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+env/
+.venv/
+
+# Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# Neo4j
+data/
